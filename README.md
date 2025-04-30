@@ -1,4 +1,19 @@
-## holaMundo.dev 👋
+## PEPESR-DEV
+
+Aquí subo información sobre mi desarrollo como desarrollador web.
+
+
+
+
+
+
+
+
+
+## Recursos interesantes  
+1.- https://forgoodfirstissue.github.com/
+
+
 
 <!--
 **pepesr-dev/pepesr-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +29,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Links interesantes 
-1.- https://forgoodfirstissue.github.com/
