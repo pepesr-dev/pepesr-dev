@@ -1,17 +1,6 @@
 ## PEPESR-DEV
 
-Aquí subo información sobre mi desarrollo como desarrollador web.
 
-
-
-
-
-
-
-
-
-## Recursos interesantes  
-1.- https://forgoodfirstissue.github.com/
 
 
 
