@@ -16,9 +16,6 @@
 
 <h2 align="left">Mis herramientas favoritas</h2>
 
-###
-
-## 🛠️ Mis herramientas favoritas
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
@@ -35,7 +32,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
 </div>
-###
+
 
 <h2 align="left">Sigue mi progreso</h2>
 
