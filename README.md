@@ -19,21 +19,23 @@
 ###
 
 ## 🛠️ Mis herramientas favoritas
-
-### 🎨 Frontend
-* 🌐 **HTML5** & **CSS3**
-* ⚡ **JavaScript (ES6+)**
-
-### ⚙️ Backend & Estructuras de Datos
-* 🐘 **PHP** & **Laravel**
-* ☕ **Java**
-* 🗄️ **MySQL**
-
-### 🐳 Infraestructura & Entorno de Trabajo
-* 🐋 **Docker**
-* 🌿 **Git** & **GitHub**
-
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+@@ -32,6 +30,10 @@
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+</div>
 ###
 
 <h2 align="left">Sigue mi progreso</h2>
