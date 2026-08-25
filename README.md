@@ -20,20 +20,18 @@
 
 ## 🛠️ Mis herramientas favoritas
 
-### Frontend
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
+### 🎨 Frontend
+* 🌐 **HTML5** & **CSS3**
+* ⚡ **JavaScript (ES6+)**
 
-### Backend & Bases de Datos
-![PHP](https://shields.io)
-![Laravel](https://shields.io)
-![Java](https://shields.io)
-![MySQL](https://shields.io)
+### ⚙️ Backend & Estructuras de Datos
+* 🐘 **PHP** & **Laravel**
+* ☕ **Java**
+* 🗄️ **MySQL**
 
-### Herramientas de Entorno
-![Docker](https://shields.io)
-![Git](https://shields.io)
+### 🐳 Infraestructura & Entorno de Trabajo
+* 🐋 **Docker**
+* 🌿 **Git** & **GitHub**
 
 
 ###
