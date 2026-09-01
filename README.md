@@ -44,7 +44,7 @@ Actualmente busco empleo.</p>
   <img width="12" />
   <!--node-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
+  <img width="12" />  
 
 
   <!--typescript-->
@@ -55,7 +55,7 @@ Actualmente busco empleo.</p>
   <img width="12" />
   <!--java-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
+  <img width="12" />  
 
 
   <!--mysql-->
@@ -66,7 +66,7 @@ Actualmente busco empleo.</p>
   <img width="12" />
   <!--laravel-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
+  <img width="12" />  
 
   
   <!--html5-->
@@ -82,7 +82,7 @@ Actualmente busco empleo.</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
   <!--vue-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />  
 
 
 
