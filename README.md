@@ -20,6 +20,7 @@ Actualmente busco empleo.</p>
 ✨ Desarrollo aplicaciones web desde 2024.<br>
 💼 Actualmente estoy buscando empleo.<br>
 🎯 Meta: Ser un desarrollador web 10/10<br>
+🎲 Realizo retos de programación en <a href="https://www.codewars.com/users/pepesr-dev">codewars</a>.</p>
 🎲 Trato de crear Aplicaciones sólidas y limpias.</p>
 
 ###
