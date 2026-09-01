@@ -8,7 +8,7 @@ Desarrollador de Aplicaciones Web<br>
 Actualmente busco empleo.</p>
 
   
-📬 **Contactamé** a través de [linkedIn](https://www.linkedin.com/in/jose-serrano-1ew4901/) 
+📬 **Contáctame** a través de [linkedIn](https://www.linkedin.com/in/jose-serrano-1ew4901/) 
 
 ###
 
@@ -156,4 +156,4 @@ Actualmente busco empleo.</p>
 
 ###
 
-📬 [**Contactamé**](https://www.linkedin.com/in/jose-serrano-1ew4901/) para saber más!
+📬 [**Contáctame**](https://www.linkedin.com/in/jose-serrano-1ew4901/) para saber más!
