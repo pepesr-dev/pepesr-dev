@@ -134,7 +134,7 @@ Actualmente busco empleo.</p>
 </a>
 
 <figure>  
-      <img src="./img/Itera.png"  alt="Itera app"  />    
+      <img src="./img/Itera.png"  alt="Itera app"  />      
     <figcaption>
       Aplicación web que replica el diseño y las funcionalidades de Pinterest.
       </figcaption>
