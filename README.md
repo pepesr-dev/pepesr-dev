@@ -8,7 +8,7 @@ Desarrollador de Aplicaciones Web<br>
 Actualmente busco empleo.</p>
 
   
-📬 **Contáctame** a través de [linkedIn](https://www.linkedin.com/in/jose-serrano-1ew4901/) 
+📬 **Contáctame** a través de [linkedIn](www.linkedin.com/in/jose-serrano-1ew4901) 
 
 ###
 
@@ -109,7 +109,7 @@ Actualmente busco empleo.</p>
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/jos%C3%A9-serrano-salguero-95263b2a0/">
+  <a href="www.linkedin.com/in/jose-serrano-1ew4901">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <!--behance-->
@@ -157,4 +157,4 @@ Actualmente busco empleo.</p>
 
 ###
 
-📬 [**Contáctame**](https://www.linkedin.com/in/jose-serrano-1ew4901/) para saber más!
+📬 [**Contáctame**](www.linkedin.com/in/jose-serrano-1ew4901) para saber más!
