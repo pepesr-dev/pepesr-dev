@@ -132,10 +132,10 @@ Actualmente busco empleo.</p>
 <div align="left">
 
 <figure> 
-      <img src="./img/iteraApp.jpg"  alt="Itera app"  />    
-    <figcaption>    
       <h3 align="left">Itera</h3>
       <h1>Buscador visual y red social</h1>
+      <img src="./img/iteraApp.jpg"  alt="Itera app"  />    
+    <figcaption>
       <div align="left">
         <p>#PHP</p>
         <p>#Vue.js</p>
@@ -157,10 +157,10 @@ Actualmente busco empleo.</p>
 
 
 <figure> 
-      <img src="./img/task-list.png"  alt="taskList app"  />    
-    <figcaption>    
       <h3 align="left">TaskList</h3>
       <h1>Gestor web de tareas</h1>
+      <img src="./img/task-list.png"  alt="taskList app"  />    
+    <figcaption>  
       <div align="left">
         <p>#HTML</p>
         <p>#CSS</p>
@@ -184,10 +184,10 @@ Actualmente busco empleo.</p>
 
 
 <figure> 
-      <img src="./img/taskTracker.png"  alt="taskTracker app"  />    
-    <figcaption>    
-      <h3 align="left">TaskTracker - CLI</h3>
+ <h3 align="left">TaskTracker - CLI</h3>
       <h1>Gestor de tareas en línea de comandos</h1>
+      <img src="./img/taskTracker.png"  alt="taskTracker app"  />    
+    <figcaption>  
       <div align="left">
         <p>#Jest</p>
         <p>#TypeScript</p>
