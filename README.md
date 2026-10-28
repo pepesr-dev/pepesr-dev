@@ -129,24 +129,69 @@ Actualmente busco empleo.</p>
 
 <h2 align="left">Proyectos</h2>
 <div align="left">
-<a href="https://github.com/pepesr-dev/itera">
-<h3 align="left">Itera</h3>
-</a>
 
-<figure>  
-      <img src="./img/Itera.png"  alt="Itera app"  />      
-    <figcaption>
-      Aplicación web que replica el diseño y las funcionalidades de Pinterest.
-      </figcaption>
-</figure>
-</div>
- <a href="https://github.com/pepesr-dev/taskList">
-<h3 align="left">Task List</h3>
-</a>
 <figure> 
-      <img src="./img/01taskList.png"  alt="taskList app"  />    
+      <img src="./img/iteraApp.jpg"  alt="Itera app"  />    
     <figcaption>    
-      Aplicación web para gestionar tareas.
+      <h3 align="left">Itera</h3>
+      <h1>Buscador visual y red social</h1>
+      <p>#PHP</p>
+      <p>#Vue.js</p>
+      <p>#Laravel</p>
+      <p>
+      Aplicación web full-stack que replica la lógica y el diseño de Pinterest. Presenta la colección de imágenes publicadas por los usuarios en formato mampostería y permite la gestión de las mismas.
+</p>
+      
+
+ <a href="https://github.com/pepesr-dev/itera">Código
+</a>
+<a href="#">Preview --no disponible
+</a>
+    </figcaption>
+
+</figure>
+
+
+
+<figure> 
+      <img src="./img/task-list.png"  alt="taskList app"  />    
+    <figcaption>    
+      <h3 align="left">TaskList</h3>
+      <h1>Gestor web de tareas</h1>
+      <p>#HTML</p>
+      <p>#CSS</p>
+      <p>#SQL</p>
+      <p>#MySQL</p>
+      <p>#PHP</p>
+      <p>
+      App web desarrollada con PHP nativo y conectada a una base de datos relacional MySql. Este proyecto cuenta con una interfaz de usuario con diseño 100% propio.
+      </p>
+      
+
+ <a href="https://github.com/pepesr-dev/taskList">Código
+ <a href="https://tasklist-rwqa.onrender.com/index.php">Preview
+</a>
+    </figcaption>
+
+</figure>
+
+
+
+
+<figure> 
+      <img src="./img/taskTracker.png"  alt="taskTracker app"  />    
+    <figcaption>    
+      <h3 align="left">TaskTracker - CLI</h3>
+      <h1>Gestor de tareas en línea de comandos</h1>
+      <p>#Jest</p>
+      <p>#TypeScript</p>
+      <p>Herramienta de administración de tareas construida siguiendo los requisitos de readmap.sh Contiene pruebas unitarias.
+
+</p>
+      
+
+ <a href="https://github.com/pepesr-dev/taskTracker">Código
+</a>
     </figcaption>
 
 </figure>
