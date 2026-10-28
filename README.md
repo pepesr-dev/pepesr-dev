@@ -25,7 +25,7 @@ Actualmente busco empleo.</p>
 
 ###
 
-<h2 align="left">Mis herramientas favoritas</h2>
+<h2 align="left">Colección de herramientas usadas</h2>
 
 <div align="left">
 
@@ -117,6 +117,7 @@ Actualmente busco empleo.</p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
     <img width="12" />
   </a>
+  
   <a href="https://x.com/PepeSR_dev">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
@@ -135,9 +136,11 @@ Actualmente busco empleo.</p>
     <figcaption>    
       <h3 align="left">Itera</h3>
       <h1>Buscador visual y red social</h1>
-      <p>#PHP</p>
-      <p>#Vue.js</p>
-      <p>#Laravel</p>
+      <div align="left">
+        <p>#PHP</p>
+        <p>#Vue.js</p>
+        <p>#Laravel</p>
+      </div>
       <p>
       Aplicación web full-stack que replica la lógica y el diseño de Pinterest. Presenta la colección de imágenes publicadas por los usuarios en formato mampostería y permite la gestión de las mismas.
 </p>
@@ -158,11 +161,13 @@ Actualmente busco empleo.</p>
     <figcaption>    
       <h3 align="left">TaskList</h3>
       <h1>Gestor web de tareas</h1>
-      <p>#HTML</p>
-      <p>#CSS</p>
-      <p>#SQL</p>
-      <p>#MySQL</p>
-      <p>#PHP</p>
+      <div align="left">
+        <p>#HTML</p>
+        <p>#CSS</p>
+        <p>#SQL</p>
+        <p>#MySQL</p>
+        <p>#PHP</p>
+      </div>
       <p>
       App web desarrollada con PHP nativo y conectada a una base de datos relacional MySql. Este proyecto cuenta con una interfaz de usuario con diseño 100% propio.
       </p>
@@ -183,8 +188,10 @@ Actualmente busco empleo.</p>
     <figcaption>    
       <h3 align="left">TaskTracker - CLI</h3>
       <h1>Gestor de tareas en línea de comandos</h1>
-      <p>#Jest</p>
-      <p>#TypeScript</p>
+      <div align="left">
+        <p>#Jest</p>
+        <p>#TypeScript</p>
+      </div>
       <p>Herramienta de administración de tareas construida siguiendo los requisitos de readmap.sh Contiene pruebas unitarias.
 
 </p>
