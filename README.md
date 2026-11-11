@@ -4,8 +4,9 @@
 
 <p align="left">Me llamo José Serrano Salguero.<br>
 Vivo en Jerez de la frontera, Cádiz.<br>
-Desarrollador de Aplicaciones Web<br>
-Actualmente busco empleo.</p>
+Desarrollador de Aplicaciones Web<br><br>
+<b>Actualmente busco empleo.</b>
+</p>
 
   
 📬 **Contáctame** a través de [linkedIn](www.linkedin.com/in/jose-serrano-1ew4901) 
@@ -32,44 +33,17 @@ Actualmente busco empleo.</p>
   <!--vscode-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
+  
   <!--docker-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <!--git-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <!--gitHub-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />  
   <!--jest-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <!--node-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />  
-
-
-  <!--typescript-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <!--js-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <!--java-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />  
-
-
-  <!--mysql-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />  
-  <!--php-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <!--laravel-->
+<!--vue-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />  
+ <!--laravel-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />  
-
-  
+  <img width="12" />   
   <!--html5-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -79,30 +53,52 @@ Actualmente busco empleo.</p>
   <!--tailwind-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-<!--bootstrap-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+   <!--typescript-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <!--vue-->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />  
+  <!--js-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <!--mysql-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />  
+  <!--php-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  
+   
+  
+  
+</div>
 
-
-
-  <!--figma-->
+  <h3 align="left">Otros</h3>
+  
+<div align="left">
+<!--git-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <!--gitHub-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+ <!--figma-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <!--behance-->
+   <!--behance-->
   <a href="https://www.behance.net/pepesr">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
     <img width="12" />
   </a>
-
-  
-  
-
-  
+<!--java-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />  
+<!--node-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />    
+  <!--bootstrap-->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" /> 
 
 </div>
-
 
 <h2 align="left">Sigue mi progreso</h2>
 
@@ -116,8 +112,7 @@ Actualmente busco empleo.</p>
   <a href="https://www.behance.net/pepesr">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" height="40" alt="behance logo"  />
     <img width="12" />
-  </a>
-  
+  </a>  
   <a href="https://x.com/PepeSR_dev">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
@@ -130,25 +125,24 @@ Actualmente busco empleo.</p>
 
 <h2 align="left">Proyectos</h2>
 <div align="left">
-
 <figure> 
       <h3 align="left">Itera</h3>
       <h1>Buscador visual y red social</h1>
       <img src="./img/iteraApp.jpg"  alt="Itera app"  />    
-    <figcaption>
+    <figcaption>  
       <div align="left">
-        <p>#PHP</p>
-        <p>#Vue.js</p>
-        <p>#Laravel</p>
-      </div>
-      <p>
+        <p>#Vue.js - #Laravel - #MySql - #SQL - #HTML5 # - #CSS3 - #tailwind - #JavaScript </p>
+      </div>  
+    <p>
       Aplicación web full-stack que replica la lógica y el diseño de Pinterest. Presenta la colección de imágenes publicadas por los usuarios en formato mampostería y permite la gestión de las mismas.
 </p>
       
 
- <a href="https://github.com/pepesr-dev/itera">Código
+<a href="https://itera-7mhg.onrender.com/">Preview -
 </a>
-<a href="#">Preview --no disponible
+ <a href="https://github.com/pepesr-dev/itera"> Código -
+</a>
+ <a href="https://www.behance.net/gallery/258345781/Itera-Guia-de-diseno-web/modules/1510719371"> Guía de diseño
 </a>
     </figcaption>
 
@@ -161,26 +155,20 @@ Actualmente busco empleo.</p>
       <h1>Gestor web de tareas</h1>
       <img src="./img/task-list.png"  alt="taskList app"  />    
     <figcaption>  
-      <div align="left">
-        <p>#HTML</p>
-        <p>#CSS</p>
-        <p>#SQL</p>
-        <p>#MySQL</p>
-        <p>#PHP</p>
-      </div>
+      <div align="left">  
+      <p>#PHP - #MySql - #SQL - #HTML5 - #CSS3</p>       
+      </div>  
       <p>
       App web desarrollada con PHP nativo y conectada a una base de datos relacional MySql. Este proyecto cuenta con una interfaz de usuario con diseño 100% propio.
       </p>
       
 
- <a href="https://github.com/pepesr-dev/taskList">Código
- <a href="https://tasklist-rwqa.onrender.com/index.php">Preview
+ <a href="https://github.com/pepesr-dev/taskList">Código -
+ <a href="https://tasklist-rwqa.onrender.com/index.php"> Preview
 </a>
     </figcaption>
 
 </figure>
-
-
 
 
 <figure> 
@@ -189,13 +177,11 @@ Actualmente busco empleo.</p>
       <img src="./img/taskTracker.png"  alt="taskTracker app"  />    
     <figcaption>  
       <div align="left">
-        <p>#Jest</p>
-        <p>#TypeScript</p>
+        <p>#Jest - #TypeScript - #Json</p>
       </div>
       <p>Herramienta de administración de tareas construida siguiendo los requisitos de readmap.sh Contiene pruebas unitarias.
 
 </p>
-      
 
  <a href="https://github.com/pepesr-dev/taskTracker">Código
 </a>
