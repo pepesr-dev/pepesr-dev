@@ -9,7 +9,8 @@ Desarrollador de Aplicaciones Web<br><br>
 </p>
 
   
-📬 **Contáctame** a través de [linkedIn](www.linkedin.com/in/jose-serrano-1ew4901) 
+📬 **Contáctame** a través de [linkedIn](www.linkedin.com/in/jose-serrano-1ew4901)   
+💾  **Descarga mi CV:** [Descargar PDF](./curriculum/José%20Serrano%20Salguero.pdf)
 
 ###
 
@@ -194,5 +195,6 @@ Desarrollador de Aplicaciones Web<br><br>
 <p>Estas y otras apps las mantengo en desarrollo.<br></p>
 
 ###
-
+  
+💾  **Descarga mi CV:** [Descargar PDF](./curriculum/José%20Serrano%20Salguero.pdf)  
 📬 [**Contáctame**](www.linkedin.com/in/jose-serrano-1ew4901) para saber más!
